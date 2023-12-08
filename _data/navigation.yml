@@ -12,6 +12,12 @@ main:
   #   url: /sitemap/
   - title: "Services"
     url: 
+  - title: "Testimonials"
+    url:
+  - title: "Property Tours"
+    url: /_pages/property_tours/
   - title: "Free Material"
+    url:
+  - title: "Partner With Me"
     url:
   

@@ -144,7 +144,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@sumitaggarwalhomes"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -309,9 +309,11 @@ defaults:
       type: pages
     values:
       layout: splash
+      author_profile: true
   # _foo
   - scope:
       path: ""
       type: foo
     values:
       layout: splash
+
