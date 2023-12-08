@@ -19,5 +19,7 @@ main:
   - title: "Free Material"
     url:
   - title: "Partner With Me"
-    url:
+    url: /_pages/partner_with_me/
+  - title: "Team"
+    url: /_pages/team/
   

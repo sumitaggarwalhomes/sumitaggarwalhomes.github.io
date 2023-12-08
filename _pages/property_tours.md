@@ -1,5 +1,6 @@
 ---
 title: "Property Tours"
+# permalink: /property_tours/
 header:
   video:
     id: owXqPrYSo6Q
@@ -12,7 +13,7 @@ tags:
   - layout
 ---
 
-### Subscribe me on YouTube
+# Subscribe me on YouTube
 
 {% include video id="ni3CJM7Wqz8" provider="youtube" %}
 
