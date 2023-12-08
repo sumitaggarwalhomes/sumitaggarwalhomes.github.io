@@ -331,7 +331,7 @@ it: &DEFAULT_IT
   pagination_previous        : "Precedente"
   pagination_next            : "Prossima"
   breadcrumb_home_label      : "Home"
-  breadcrumb_separator       : "/"
+  breadcrumb_separator       : ">"
   menu_label                 :
   search_label               :
   toc_label                  : "Indice della pagina"
