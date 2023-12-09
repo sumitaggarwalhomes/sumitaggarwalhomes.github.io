@@ -10,7 +10,7 @@ header:
       url: "https://sumitaggarwal.exprealty.com/"
 excerpt: >
   Find your dream home today with us.<br />
-  <small><a href="https://sumitaggarwal.exprealty.com/">Clieck Here To Search For Properties</a></small>
+  <small><a href="https://calendly.com/sumitaggarwal/introcall">Click Here To Schedule Your FREE Consultation Today!</a></small>
 feature_row:
   - image_path: /assets/images/hand-shake.png
     alt: "customizable"
