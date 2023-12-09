@@ -1,5 +1,5 @@
 ---
-title: "Partner With Me"
+title: "Partner With Us"
 # permalink: /partner_with_me/
 tagline: "Join the most technologically advanced global real estate group with the fastest-growing brokerage in the world."
 header:
@@ -17,7 +17,7 @@ last_modified_at: 2023-12-08T13:05:25-05:00
 feature_row:
   - image_path: /assets/images/hand-shake.png
     alt: "customizable"
-    title: "Partner With Me"
+    title: "Partner With Us"
     excerpt: "Learn how to become a Modern Agent that drives more leads and closes more deals. Join my real estate group to get all of my training and resources for FREE!"
     url: "https://calendly.com/sumitaggarwal/introcall"
     btn_class: "btn--primary"

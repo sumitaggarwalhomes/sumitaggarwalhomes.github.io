@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#f26722"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/mm-home-page-feature.png
   actions:
     - label: "Find My Home"
       url: "https://sumitaggarwal.exprealty.com/"

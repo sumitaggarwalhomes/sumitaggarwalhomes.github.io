@@ -10,16 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Services"
-    url: 
-  - title: "Testimonials"
-    url:
+  - title: "Partner With Us"
+    url: /_pages/partner_with_me/
   - title: "Property Tours"
     url: /_pages/property_tours/
   - title: "Free Material"
-    url:
-  - title: "Partner With Me"
-    url: /_pages/partner_with_me/
+    url: /_pages/free/
+  - title: "Testimonials"
+    url: /_pages/testimonials/
   - title: "Team"
     url: /_pages/team/
-  
+  - title: "Contact"
+    url: /_pages/contact/
+  - title: "Services"
+    url: /_pages/services/

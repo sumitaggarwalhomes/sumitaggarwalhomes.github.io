@@ -114,9 +114,6 @@ author:
   location         : "New Jersey, USA"
   email            : sumitagg@outlook.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sumitagg@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sumitaggarwal.exprealty.com/"
