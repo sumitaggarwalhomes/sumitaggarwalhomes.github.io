@@ -39,5 +39,6 @@ feature_row:
 ---
 
 We make Everything **FREE** for our **Team of Real Estate Agents**, so that you can excel your personal brand and business.
+{: .notice--success}
 
 {% include feature_row %}
