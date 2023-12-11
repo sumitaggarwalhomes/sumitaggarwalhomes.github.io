@@ -11,7 +11,7 @@ toc_sticky: true
 feature_row:
   - image_path: /assets/images/buyer.png
     alt: "Buyer's Guide"
-    title: "FREE Buyer's Guide"
+    title: ""
     excerpt: ""
     url: "https://sumitaggarwal.exprealty.com/ask/9c974f1391bfaff2859d922d854c5c56"
     btn_class: "btn--primary"
@@ -19,7 +19,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/seller.png
     alt: "fully responsive"
-    title: "FREE Seller's Guide"
+    title: ""
     excerpt: ""
     url: ""
     btn_class: "btn--primary"
@@ -27,7 +27,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/renter.png
     alt: "customizable"
-    title: "FREE Renter's Guide"
+    title: ""
     excerpt: ""
     url: "https://sumitaggarwal.exprealty.com/ask/9c974f1391bfaff2859d922d854c5c56"
     btn_class: "btn--primary"
@@ -39,6 +39,7 @@ If you are a **Buyer** then check the **FREE** content below!
 
 # Buyer
 
+## FREE Buyer's Guide
 {% include feature_row id="feature_row" type="left" %}
 
 ## 6 Reasons to Own a Home
@@ -52,12 +53,15 @@ If you are a **Seller** then check the **FREE** content below!
 
 # Seller
 
-{% include feature_row id="feature_row2" type="right" %}
+## FREE Seller's Guide
+{% include feature_row id="feature_row2" type="left" %}
 
 If you are still **Renting** then check the **FREE** content below!
 {: .notice--success}
+
 # Tenant
 
+## FREE Renter's Guide
 {% include feature_row id="feature_row3" type="left" %}
 ## Buy vs Rent
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NnxxqCKDJes?si=GfV9_3FKi0_ziQQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
