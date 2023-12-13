@@ -36,9 +36,52 @@ feature_row:
     url: "https://calendly.com/sumitaggarwal/introcall"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+feature_row2:
+  - image_path: /assets/images/wolfpack-logo.png
+    alt: "customizable"
+    url: "https://vimeo.com/594822740"
+    btn_class: "btn--primary"
+    btn_label: "Video Interview"
+  - image_path: /assets/images/wolfpack-logo.png
+    alt: "customizable"
+    url: "https://vimeo.com/594274947"
+    btn_class: "btn--primary"
+    btn_label: "Video Interview"
+  - image_path: /assets/images/wolfpack-logo.png
+    alt: "customizable"
+    url: "https://vimeo.com/595000019"
+    btn_class: "btn--primary"
+    btn_label: "Video Interview"
+  - image_path: /assets/images/wolfpack-logo.png
+    alt: "customizable"
+    url: "https://vimeo.com/594283024"
+    btn_class: "btn--primary"
+    btn_label: "Video Interview"
+  - image_path: /assets/images/wolfpack-logo.png
+    alt: "customizable"
+    url: "https://vimeo.com/600530322"
+    btn_class: "btn--primary"
+    btn_label: "Video Interview"
+  - image_path: /assets/images/wolfpack-logo.png
+    alt: "customizable"
+    url: "https://vimeo.com/601894648"
+    btn_class: "btn--primary"
+    btn_label: "Video Interview"
 ---
 
 We make Everything **FREE** for our **Team of Real Estate Agents**, so that you can excel your personal brand and business.
 {: .notice--success}
 
 {% include feature_row %}
+
+
+# See What Our Members Are Saying
+
+We are here to **changes lives**. Don’t just take our word for it. Listen to some of our incredible members **share their experiences**.
+{: .notice--success}
+
+{% include feature_row id="feature_row2" %}
+
+<!-- 
+[![Alt text for broken image link](/assets/images/wolfpack-logo.png)](https://vimeo.com/594822740){:target="_blank"}
+-->

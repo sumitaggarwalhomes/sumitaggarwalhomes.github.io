@@ -56,6 +56,10 @@ If you are a **Seller** then check the **FREE** content below!
 ## FREE Seller's Guide
 {% include feature_row id="feature_row2" type="left" %}
 
+## Free Market Valuation for your Home
+<!-- KvCore widget-->
+<iframe style="width:100%; height:160px;" src="https://sumitaggarwal.exprealty.com/sellembed.php" allowtransparency="true" frameBorder="0"> </iframe>
+
 If you are still **Renting** then check the **FREE** content below!
 {: .notice--success}
 

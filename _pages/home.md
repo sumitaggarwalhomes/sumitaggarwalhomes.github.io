@@ -16,23 +16,23 @@ intro:
 feature_row:
   - image_path: /assets/images/hand-shake.png
     alt: "customizable"
-    title: "Partner With Me"
+    title: "Partner With Us"
     excerpt: "Learn how to become a Modern Agent that drives more leads and closes more deals. Join my real estate group to get all of my training and resources for FREE!"
-    url: "/_pages/partner_with_me/"
+    url: "https://calendly.com/sumitaggarwal/introcall"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/online-training.png
     alt: "fully responsive"
     title: "Online Trainings"
     excerpt: "Looking to learn more about real estate marketing and how to generate more leads? My training is a great way to learn marketing and grow your real estate business."
-    url: "/_pages/partner_with_me/"
+    url: "https://calendly.com/sumitaggarwal/introcall"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/zoom-call.png
     alt: "customizable"
     title: "Weekly Private Mastermind Calls"
     excerpt: "Lead by the top agents in the business like Mike Sherrard, Connor Steinbrooke and others."
-    url: "/_pages/partner_with_me/"
+    url: "https://calendly.com/sumitaggarwal/introcall"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
@@ -52,6 +52,18 @@ feature_row:
 # For Real Estate Agents
 {% include feature_row %}
 
+# Upcoming Events
+
+| Days   | Topic | Time | Event Link |
+| ------        | ------- | ----- | ------- |
+| Monday       | TEAM BUILDING STRATEGIES |11am-12pm EST | [Learn More](/_pages/partner_with_me/){: .btn .btn--primary} |
+| Tuesday       | MINDSET & PERSONAL DEVELOPMENT | 5pm-6pm EST | [Learn More](/_pages/partner_with_me/){: .btn .btn--primary} |
+| Wednesday       | WOMEN IN REAL ESTATE | 2pm-3pm EST | [Learn More](#/_pages/partner_with_me/){: .btn .btn--primary} |
+|       | T&R GROUP MASTERMINDS | 3pm-4pm EST | [Learn More](#/_pages/partner_with_me/){: .btn .btn--primary} |
+| Thursday       | BOOK CLUB FOR REALTORS | 10am-11am EST | [Learn More](#/_pages/partner_with_me/){: .btn .btn--primary} |
+|        | LEADERSHIP CALL | 11am-12pm EST | [Learn More](#/_pages/partner_with_me/){: .btn .btn--primary} |
+| Friday      | FRIDAY CONNECT FOR REALTORS | 12pm-12:30pm EST | [Learn More](#/_pages/partner_with_me/){: .btn .btn--primary} |
+|       | EXP EXPLAINED | 12:30pm-1pm EST | [Learn More](#/_pages/partner_with_me/){: .btn .btn--primary} |
 
 # Get In Touch With Us
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkdgqja" method="post">
