@@ -25,7 +25,7 @@ Sumit is the market expert who guides clients from start to the end of buying, s
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/shabai_150.png){: .align-left} **Shabai - Partner, New Jersey**
 
-Shabai is a trusted and knowledgable source for everything in New Jersey. He speaks **Mandarin Chinese and English**.
+Shabai is a trusted and knowledgable source for everything in New Jersey. She speaks **Mandarin Chinese and English**.
 
 
 <!-- KvCore widget to search home-->
