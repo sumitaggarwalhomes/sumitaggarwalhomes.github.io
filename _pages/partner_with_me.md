@@ -1,18 +1,12 @@
 ---
+layout: single
+classes: wide
 title: "Partner With Us"
 # permalink: /partner_with_me/
 tagline: "Join the most technologically advanced global real estate group with the fastest-growing brokerage in the world."
 header:
   overlay_image: /assets/images/hoboken.png
   caption: ""
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2023-12-08T13:05:25-05:00
 
 feature_row:
   - image_path: /assets/images/hand-shake.png

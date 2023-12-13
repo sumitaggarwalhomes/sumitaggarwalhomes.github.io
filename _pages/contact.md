@@ -1,16 +1,9 @@
 ---
+layout: single
 title: "Get In Touch With Us!"
 tagline: "Success is best when shared."
 header:
   overlay_image: /assets/images/contact.png
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2023-12-08T13:05:25-05:00
 ---
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkdgqja" method="post">
