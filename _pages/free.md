@@ -21,7 +21,7 @@ feature_row2:
     alt: "fully responsive"
     title: ""
     excerpt: ""
-    url: ""
+    url: "https://sumitaggarwal.exprealty.com/ask/3bbad880047bbfadc2feaf6b3bdb0f8c"
     btn_class: "btn--primary"
     btn_label: "Download"
 feature_row3:
